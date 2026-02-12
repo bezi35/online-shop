@@ -1,5 +1,8 @@
 
-        // --- 1. DATASET: 30 PRODUCTS ---
+        // --- 1. 
+        // beza
+        
+        // DATASET: 30 PRODUCTS ---
         const products = [
             // ELECTRONICS
             { id: 1, name: "Wireless Noise Cancelling Headphones", category: "Electronics", price: 299.99, rating: 4.8, img: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400" },
